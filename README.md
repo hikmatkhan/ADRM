@@ -2,7 +2,7 @@
 ## Code is coming soon.
 ## Idea Illustration
 
-![Idea Illustration](https://github.com/hikmatkhan/ADRM/blob/main/figures/idea_main.png)
+![Idea Illustration](https://github.com/hikmatkhan/ADRM/blob/main/figures/idea_main.png | width=100)
 
 
 ## Diversified Rehearsal Memory Samples
