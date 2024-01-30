@@ -35,12 +35,12 @@
 
 ## t-SNE Feature Distribution Visualization for All CL Approaches
 
-<img src='/figures/t_sne_all_cl_models.png' width='500'>
+<img src='/figures/t_sne_all_cl_models.png' width='900'>
 
 
 ## t-SNE Feature Distribution Visualization
 
-<img src='/figures/m_new_t_sim_viz.png' width='500'>
+<img src='/figures/m_new_t_sim_viz.png' width='900'>
 
 
 ## Similarity (using Central Kernel Alignment (CKA)) of learned representation of different CL approaches 
