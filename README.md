@@ -46,7 +46,7 @@
 ## Similarity (using Central Kernel Alignment (CKA)) of learned representation of different CL approaches 
 
 
-<img src='/figures/cka_similarities.png' width='500'>
+<img src='/figures/cka_similarities.png' width='700'>
 
 
 ## Disentangled Features Visualization of CL Approaches
