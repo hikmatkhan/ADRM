@@ -6,7 +6,8 @@
 
 
 ## Diversified Rehearsal Memory Samples
-![](https://github.com/hikmatkhan/ADRM/blob/main/figures/samples_images.png)
+<img src='/figures/samples_images.png' width='100'>
+
 
 ## CIFAR10-C Samples Airplane
 
