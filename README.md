@@ -6,7 +6,7 @@
 
 
 ## Diversified Rehearsal Memory Samples
-<img src='/figures/samples_images.png' width='100'>
+<img src='/figures/samples_images.png' width='500'>
 
 
 ## CIFAR10-C Samples Airplane
