@@ -51,7 +51,7 @@
 
 ## Disentangled Features Visualization of CL Approaches
 
-<img src='/figures/disentangle_features.png' width='500'>
+<img src='/figures/disentangle_features.png' width='700'>
 
 
 
