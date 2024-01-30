@@ -21,11 +21,6 @@
 ![](https://github.com/hikmatkhan/ADRM/blob/main/figures/pgd_l2_attacked.png)
 
 
-## Adversarially Perturbed CIFAR10 Dataset Using PGD L2
-
-![](https://github.com/hikmatkhan/ADRM/blob/main/figures/pgd_l2_attacked.png)
-
-
 ## Evaluating Robust in Natural Noise Conditions
 ![](https://github.com/hikmatkhan/ADRM/blob/main/figures/nn_cifar10_c.png)
 
