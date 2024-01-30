@@ -7,3 +7,9 @@
 ## CIFAR10-C Samples Airplane
 
 ![](https://github.com/hikmatkhan/ADRM/blob/main/figures/cifar10-c_samples_airplane.png)
+
+## Adversarially Perturbed CIFAR10 Dataset Using FGSM
+
+![](https://github.com/hikmatkhan/ADRM/blob/main/figures/fgsm_attacked.png)
+
+
