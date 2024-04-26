@@ -28,15 +28,11 @@
 
 <img src='/figures/pgd_l2_attacked.png' width='600'>
 
-## Baseline and Results
-
-<img src='/figures/2.jpg' width='650'>
-
 ## Evaluating Robust in Natural Noise Conditions
 
 <img src='/figures/nn_cifar10_c.png' width='650'>
 
-
+<img src='/figures/3.jpg' width='650'>
 
 
 ## Evaluating Robust in Adversarial Conditions
@@ -45,15 +41,23 @@
 
 <img src='/figures/finalized_n_cifar10_adv_acc.png' width='600'>
 
+<img src='/figures/3.jpg' width='600'>
 
-## t-SNE Feature Distribution Visualization for All CL Approaches
 
-<img src='/figures/t_sne_all_cl_models.png' width='900'>
 
 
 ## t-SNE Feature Distribution Visualization
 
 <img src='/figures/m_new_t_sim_viz.png' width='900'>
+
+<img src='/figures/5.jpg' width='900'>
+
+<img src='/figures/6.jpg' width='900'>
+
+
+## t-SNE Feature Distribution Visualization for All CL Approaches
+
+<img src='/figures/t_sne_all_cl_models.png' width='900'>
 
 
 ## Similarity (using Central Kernel Alignment (CKA)) of learned representation of different CL approaches 
@@ -61,10 +65,19 @@
 
 <img src='/figures/cka_similarities.png' width='700'>
 
+<img src='/figures/7.jpg' width='700'>
+
+<img src='/figures/8.jpg' width='700'>
+
+<img src='/figures/9.jpg' width='700'>
+
 
 ## Disentangled Features Visualization of CL Approaches
 
 <img src='/figures/disentangle_features.png' width='700'>
+
+
+<img src='/figures/10.jpg' width='700'>
 
 
 
