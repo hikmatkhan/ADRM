@@ -28,12 +28,14 @@
 
 ## Evaluating Robust in Natural Noise Conditions
 
-<img src='/figures/nn_cifar10_c.png' width='600'>
+<img src='/figures/nn_cifar10_c.png' width='650'>
 
 
 ## Evaluating Robust in Adversarial Conditions
 
 <img src='/figures/cifar10_adv_acc.png' width='500'>
+
+<img src='/figures/finalized_n_cifar10_adv_acc.png' width='500'>
 
 
 ## t-SNE Feature Distribution Visualization for All CL Approaches
