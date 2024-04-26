@@ -6,12 +6,12 @@
 
 
 ## Diversified Rehearsal Memory Samples
-<img src='/figures/samples_images.png' width='500'>
+<img src='/figures/samples_images.png' width='700'>
 
 
 ## CIFAR10-C Samples Airplane
 
-<img src='/figures/cifar10-c_samples_airplane.png' width='500'>
+<img src='/figures/cifar10-c_samples_airplane.png' width='700'>
 
 
 ## Adversarially Perturbed CIFAR10 Dataset Using FGSM
