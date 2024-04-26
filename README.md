@@ -18,8 +18,11 @@
 
 <img src='/figures/fgsm_attacked.png' width='500'>
 
-
 ## Adversarially Perturbed CIFAR10 Dataset Using PGD L2
+
+<img src='/figures/pgd_l2_adv_attacked.png' width='500'>
+
+## Adversarially Perturbed CIFAR10 Dataset Using PGD L-Inf
 
 <img src='/figures/pgd_l2_attacked.png' width='500'>
 
