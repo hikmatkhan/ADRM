@@ -35,7 +35,7 @@
 
 <img src='/figures/cifar10_adv_acc.png' width='500'>
 
-<img src='/figures/finalized_n_cifar10_adv_acc.png' width='500'>
+<img src='/figures/finalized_n_cifar10_adv_acc.png' width='600'>
 
 
 ## t-SNE Feature Distribution Visualization for All CL Approaches
