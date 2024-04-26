@@ -2,7 +2,7 @@
 ## Code is coming soon.
 ## Idea Illustration
 
-<img src='/figures/idea_main.png' width='500'>
+<img src='/figures/finalized_n_main.png' width='500'>
 
 
 ## Diversified Rehearsal Memory Samples
