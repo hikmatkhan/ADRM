@@ -16,19 +16,19 @@
 
 ## Adversarially Perturbed CIFAR10 Dataset Using FGSM
 
-<img src='/figures/fgsm_attacked.png' width='500'>
+<img src='/figures/fgsm_attacked.png' width='700'>
 
 ## Adversarially Perturbed CIFAR10 Dataset Using PGD L2
 
-<img src='/figures/pgd_l2_adv_attacked.png' width='500'>
+<img src='/figures/pgd_l2_adv_attacked.png' width='700'>
 
 ## Adversarially Perturbed CIFAR10 Dataset Using PGD L-Inf
 
-<img src='/figures/pgd_l2_attacked.png' width='500'>
+<img src='/figures/pgd_l2_attacked.png' width='700'>
 
 ## Evaluating Robust in Natural Noise Conditions
 
-<img src='/figures/nn_cifar10_c.png' width='500'>
+<img src='/figures/nn_cifar10_c.png' width='700'>
 
 
 ## Evaluating Robust in Adversarial Conditions
