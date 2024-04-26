@@ -13,7 +13,7 @@
 
 <img src='/figures/cifar10-c_samples_airplane.png' width='600'>
 
-<img src='/figures/1' width='600'>
+<img src='/figures/1.jpg' width='600'>
 
 
 ## Adversarially Perturbed CIFAR10 Dataset Using FGSM
