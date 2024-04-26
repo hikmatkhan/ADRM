@@ -28,9 +28,15 @@
 
 <img src='/figures/pgd_l2_attacked.png' width='600'>
 
+## Baseline and Results
+
+<img src='/figures/2.jpg' width='650'>
+
 ## Evaluating Robust in Natural Noise Conditions
 
 <img src='/figures/nn_cifar10_c.png' width='650'>
+
+
 
 
 ## Evaluating Robust in Adversarial Conditions
