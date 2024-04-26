@@ -11,24 +11,24 @@
 
 ## CIFAR10-C Samples Airplane
 
-<img src='/figures/cifar10-c_samples_airplane.png' width='700'>
+<img src='/figures/cifar10-c_samples_airplane.png' width='500'>
 
 
 ## Adversarially Perturbed CIFAR10 Dataset Using FGSM
 
-<img src='/figures/fgsm_attacked.png' width='700'>
+<img src='/figures/fgsm_attacked.png' width='600'>
 
 ## Adversarially Perturbed CIFAR10 Dataset Using PGD L2
 
-<img src='/figures/pgd_l2_adv_attacked.png' width='700'>
+<img src='/figures/pgd_l2_adv_attacked.png' width='600'>
 
 ## Adversarially Perturbed CIFAR10 Dataset Using PGD L-Inf
 
-<img src='/figures/pgd_l2_attacked.png' width='700'>
+<img src='/figures/pgd_l2_attacked.png' width='600'>
 
 ## Evaluating Robust in Natural Noise Conditions
 
-<img src='/figures/nn_cifar10_c.png' width='700'>
+<img src='/figures/nn_cifar10_c.png' width='600'>
 
 
 ## Evaluating Robust in Adversarial Conditions
