@@ -1,0 +1,50 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/replay_IJCNN_Naive_6.json"
+ replay_EPSILON:
+  value: 1e-8
+ replay_init_epoch:
+  values: [200]
+ replay_init_lr:
+  values: [0.1, 0.01]
+ replay_init_lr_decay:
+  values: [0.1, 0.01]
+ replay_init_weight_decay:
+  values: [0.0005, 0.005]
+ replay_epochs:
+  values: [32, 64, 96] #[70]
+ replay_lrate:
+  values: [0.1, 0.01]
+ replay_lrate_decay:
+  values: [0.1, 0.01]
+ replay_batch_size:
+  values: [128, 256]
+ replay_weight_decay:
+  values: [2e-4, 2e-3]
+ replay_T:
+  values: [2]
+ adversarial_robust_reply:
+  values: [0]
+ wandb_log:
+  value: 1
+ adv_train:
+  values: [0]
+ adv_train_steps:
+#  values: [1, 5, 10]
+  values: [0]
+ low_adv_epsilon:
+#  values: [0.01, 0.05]
+  values: [0]
+ high_adv_epsilon:
+#  values: [0.09, 0.15]
+  values: [0]
+ adv_attack:
+#  values: ["fgsm", "pgd"]
+  values: [0]
+ adv_attack_steps:
+#  values: [5, 10, 15]
+  values: [0]

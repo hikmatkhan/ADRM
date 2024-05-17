@@ -1,0 +1,37 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/podnet_IJCNN_2.json"
+
+
+
+ pd_batch_size:
+  values: [ 128, 256 ]
+
+ pd_epochs:
+  values: [ 96, 128 ]
+
+ pd_lrate:
+  values: [ 0.1, 0.01 ]
+
+ pd_ft_epochs:
+  values: [ 20 ]
+
+ pd_ft_lrate:
+  values: [ 0.005, 0.001 ]
+
+ pd_lambda_c_base:
+  values: [ 5 ]
+
+ pd_lambda_f_base:
+  values: [ 1 ]
+
+ pd_nb_proxy:
+  values: [ 10 ]
+
+ pd_weight_decay:
+  values: [ 5e-4, 5e-3 ]
+

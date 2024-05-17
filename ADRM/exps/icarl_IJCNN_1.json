@@ -1,0 +1,18 @@
+{
+    "prefix": "reproduce",
+    "dataset": "cifar10",
+    "normalize": "not_normalized",
+    "save_model": true,
+    "topk": 2,
+    "memory_size": 1024,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "shuffle": false,
+    "init_cls": 2,
+    "increment": 2,
+    "model_name": "icarl",
+    "convnet_type": "resnet32",
+    "device": ["1"],
+    "seed": [1993]
+}
+

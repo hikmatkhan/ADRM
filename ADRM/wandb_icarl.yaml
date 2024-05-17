@@ -1,0 +1,38 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/icarl_IJCNN_2.json"
+
+ icarl_init_epoch:
+  values: [ 200 ]
+
+ icarl_batch_size:
+  values: [ 128, 256 ]
+
+ icarl_epochs:
+  values: [ 64, 96 ]
+
+ icarl_lrate:
+  values: [ 0.1, 0.01 ]
+
+ icarl_init_lr:
+  values: [ 0.1, 0.01 ]
+
+ icarl_lrate_decay:
+  values: [ 0.1, 0.01 ]
+
+ icarl_init_lr_decay:
+  values: [ 0.1, 0.01 ]
+
+ icarl_init_weight_decay:
+  values: [ 0.005, 0.05 ]
+
+ icarl_weight_decay:
+  values: [ 2e-4, 2e-3 ]
+
+ icarl_T:
+  values: [ 2 ]
+

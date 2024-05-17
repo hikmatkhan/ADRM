@@ -1,0 +1,34 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/foster.json"
+
+ foster_init_epochs:
+  values: [ 128 ]
+
+ foster_init_lr:
+  values: [0.1, 0.01]
+
+ foster_compression_epochs:
+  values: [96, 128]
+
+ foster_boosting_epochs:
+  values: [ 96, 128 ]
+
+ foster_init_weight_decay:
+  values: [ 5e-4,  5e-3]
+
+ foster_batch_size:
+  values: [128, 256]
+
+ foster_lr:
+  values: [0.1, 0.01]
+
+ foster_weight_decay:
+  values: [0.0005, 0.005]
+
+ foster_T:
+  values: [2]

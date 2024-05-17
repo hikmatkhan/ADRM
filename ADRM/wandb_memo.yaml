@@ -1,0 +1,37 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/memo_IJCNN_2.json"
+
+ memo_init_epoch:
+  values: [ 128 ]
+
+ memo_init_lr:
+  values: [0.1, 0.01]
+
+ memo_init_weight_decay:
+  values: [5e-4, 5e-3]
+
+ memo_init_lr_decay:
+  values: [ 0.1, 0.01 ]
+
+ memo_epochs:
+  values: [ 96, 128]
+
+ memo_lrate:
+  values: [0.1, 0.01]
+
+ memo_batch_size:
+  values: [128]
+
+ memo_weight_decay:
+  values: [2e-4, 2e-3]
+
+ memo_lrate_decay:
+  values: [ 0.1, 0.01 ]
+
+ memo_T:
+  values: [2]

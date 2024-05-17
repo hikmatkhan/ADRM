@@ -1,0 +1,31 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/pass_IJCNN_2.json"
+
+ pass_temp:
+  values: [ 0.1 ]
+
+ pass_epochs:
+  values: [96, 64]
+
+ pass_lr:
+  values: [0.001]
+
+ pass_batch_size:
+  values: [ 64, 96 ]
+
+ pass_weight_decay:
+  values: [ 2e-4,  2e-3]
+
+ pass_step_size:
+  values: [45]
+
+ pass_gamma:
+  values: [0.1, 0.01]
+
+ pass_T:
+  values: [2]

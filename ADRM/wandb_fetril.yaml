@@ -1,0 +1,31 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/fetril.json"
+
+ fetril_batch_size:
+  values: [ 128, 256 ]
+
+ fetril_init_epochs:
+  values: [128]
+
+ fetril_init_lr:
+  values: [0.1, 0.01]
+
+ fetril_epochs:
+  values: [50, 64]
+
+ fetril_lr:
+  values: [0.05, 0.09]
+
+ fetril_weight_decay:
+  values: [5e-4, 5e-3]
+
+ fetril_init_weight_decay:
+  values: [5e-4, 5e-3]
+
+ fetril_T:
+  values: [2]

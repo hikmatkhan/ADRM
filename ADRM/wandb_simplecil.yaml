@@ -1,0 +1,25 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/simplecil.json"
+
+ simplecil_init_epoch:
+  values: [ 128, 200 ]
+
+ simplecil_init_lr:
+  values: [0.01, 0.1]
+
+ simplecil_batch_size:
+  values: [256, 128]
+
+ simplecil_weight_decay:
+  values: [ 0.05, 0.005]
+
+ simplecil_init_lr_decay:
+  values: [ 0.1, 0.01]
+
+ simplecil_init_weight_decay:
+  values: [5e-4, 5e-3]

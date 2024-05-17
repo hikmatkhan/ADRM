@@ -1,0 +1,37 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/der_IJCNN_1.json"
+
+ der_init_epoch:
+  values: [200]
+
+ der_epochs:
+  values: [64, 96, 128]
+
+ der_batch_size:
+  values: [128, 256]
+
+ der_init_lr:
+   values: [0.1, 0.01]
+
+ der_lrate:
+  values: [ 0.1, 0.01]
+
+ der_init_lr_decay:
+  values: [0.1, 0.01]
+
+ der_lrate_decay:
+  values: [0.1, 0.01]
+
+ der_init_weight_decay:
+  values: [2e-4, 2e-3]
+
+ der_weight_decay:
+  values: [2e-3, 2e-5]
+
+ der_T:
+  values: [2]

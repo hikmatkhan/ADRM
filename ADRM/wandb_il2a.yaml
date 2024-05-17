@@ -1,0 +1,23 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/il2a_IJCNN_2.json"
+
+
+ il2a_epochs:
+  values: [ 96, 128, 256 ]
+
+ il2a_lr:
+  values: [0.001, 0.01]
+
+ il2a_batch_size:
+  values: [64, 96]
+
+ il2a_weight_decay:
+  values: [ 2e-4, 2e-3]
+
+ il2a_T:
+  values: [2]

@@ -1,0 +1,48 @@
+program:
+ main.py
+# 2, 1, 4
+method: grid
+parameters:
+ config:
+  value: "./exps/bic_IJCNN_2.json"
+ bic_epochs:
+  values: [64, 96, 128]
+ bic_lrate:
+  values: [0.1, 0.01]
+ bic_lrate_decay:
+  values: [0.1, 0.01]
+ bic_batch_size:
+  values: [128, 256]
+ bic_split_ratio:
+  values: [0.1] #[70]
+ bic_T:
+  values: [2]
+ bic_weight_decay:
+  values: [2e-4, 2e-3]
+# replay_batch_size:
+#  values: [64, 128, 256]
+# replay_weight_decay:
+#  values: [2e-4, 2e-3]
+# replay_T:
+#  values: [2]
+# adversarial_robust_reply:
+#  values: [0]
+# wandb_log:
+#  value: 1
+# adv_train:
+#  values: [0]
+# adv_train_steps:
+##  values: [1, 5, 10]
+#  values: [0]
+# low_adv_epsilon:
+##  values: [0.01, 0.05]
+#  values: [0]
+# high_adv_epsilon:
+##  values: [0.09, 0.15]
+#  values: [0]
+# adv_attack:
+##  values: ["fgsm", "pgd"]
+#  values: [0]
+# adv_attack_steps:
+##  values: [5, 10, 15]
+#  values: [0]
