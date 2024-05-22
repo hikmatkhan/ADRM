@@ -1,5 +1,5 @@
 # WCCI2024-Adversarially Diversified Rehearsal Memory (ADRM): Mitigating Memory Overfitting Challenges in Continual Learning
-## Code is coming soon.
+
 ## Idea Illustration
 
 <img src='/figures/finalized_n_main.png' width='500'>
